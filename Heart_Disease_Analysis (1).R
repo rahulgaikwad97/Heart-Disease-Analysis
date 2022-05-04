@@ -1,6 +1,6 @@
 #------------------Heart Disease Analysis and Prediction
 rm(list=ls())
-setwd("C:\\Users\\Sanjana\\Downloads")
+setwd("C:\\Users\\14699\\Downloads")
 
 #Datasets : 1 cleveland.data
 #           2 hungarian.data
