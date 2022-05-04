@@ -9,8 +9,6 @@ There are 3 available databases concerning heart disease diagnosis. All attribut
 A brief description of the dataset used: The dataset has 14 attributes (categorical, Integer and Real) and 720 instances. The ’num’ attribute is the response variable, used for the prediction. 
 (Link: https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
-In this project we have taken datasets from 
-
 The following are the project's key goals:
 • Using area codes, combine datasets from multiple locations into a single dataset.
 • Data pre-processing to replace null and out-of-bounds values.
